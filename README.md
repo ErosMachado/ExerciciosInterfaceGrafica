@@ -1,2 +1,2 @@
 # ExerciciosInterfaceGrafica
-Exercícios de Interface Gráfica no Java (IDE Eclipse)
+Exercícios de Interface Gráfica no Java (IDE Eclipse).
